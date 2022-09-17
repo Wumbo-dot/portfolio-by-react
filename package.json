@@ -2,7 +2,7 @@
     "name": "current",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://william-horn.github.io/my-portfolio-revamp/",
+    "homepage": "https://github.com/Wumbo-dot/portfolio-by-react",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.4",
         "@testing-library/react": "^11.1.0",

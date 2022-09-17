@@ -1,6 +1,31 @@
-[{},
-{},
-{},
-{},
-{}
+[{
+    "title": "Challenge1",
+    "image": "./assets/images/Challenge1",
+    "github": "https://github.com/Wumbo-dot/Challenge1",
+    "url": "https://wumbo-dot.github.io/Challenge1/#search-engine-optimization"
+},
+{
+    "title": "Run-Buddy",
+    "image": "./assets/images/Run-Buddy",
+    "github": "https://github.com/Wumbo-dot/run-buddy",
+    "url": "https://wumbo-dot.github.io/run-buddy/"
+},
+{
+    "title": "My Password Generator",
+    "image": "./assets/images/MyPasswordGenerator",
+    "github": "https://github.com/Wumbo-dot/My-Password-Generator",
+    "url": "https://wumbo-dot.github.io/My-Password-Generator/"
+},
+{
+    "title": "Digital-Employee-Tracker",
+    "image": "./assets/images/DigitalEmployeeTracker",
+    "github": "https://github.com/Wumbo-dot/Digital-Employee-Tracker",
+    "url": ""
+},
+{
+    "title": "EventRadar",
+    "image": "./assets/images/EventRadar",
+    "github": "https://github.com/Wumbo-dot/EventRadar",
+    "url": "https://wumbo-dot.github.io/EventRadar/"
+}
 ]
