@@ -1,0 +1,102 @@
+:root {
+    --themePrimaryColor: #5d5d5d;
+    --themeSecondaryColor: #373737;
+    --themeColor3: #a9590b;
+    --themeColor4: #dad16d;
+    --themeColor5: #ede3b2;
+    --themeColor6: #101010;
+    --themeColor7: linear-gradient(180deg, rgb(212 124 96) 0%, rgb(129 36 36) 100%);
+    --themeColor8: linear-gradient(180deg, rgba(60,123,255,1) 0%, rgb(102 190 255) 100%);
+
+    --baseTextFont: monospace;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: white;
+    font-family: var(--baseTextFont);
+}
+
+html {
+    /* scroll-behavior: smooth; */
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h2 {
+    font-size: 2.6rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+button[type="submit"] {
+    font-size: 1.4rem;
+    padding: 5px 15px;
+    font-family: monospace;
+    border: 0;
+    background-color: #37485b;
+    color: white;
+}
+
+label {
+    font-size: 1.3rem;
+    font-family: monospace;
+    display: block;
+    text-align: left;
+}
+
+input,
+textarea {
+    background-color: #0a0a0a;
+    border: 0;
+    font-size: 1.2rem;
+    font-weight: 100;
+    color: white;
+    outline: none;
+    /* border: 2px solid var(--theme-primary-background-color); */
+    padding: 8px 10px;
+    font-family: monospace;
+    width: 100%;
+    /* font-family: var(--theme-input-text-font); */
+}
+
+textarea {
+    resize: none;
+}
+
+.wrapper {
+    background-color: var(--themeColor6);
+    min-height: 100vh;
+    position: relative;
+}
+
+.page-section {
+    opacity: 0;
+}
+
+.paragraph {
+    color: #656565;
+    line-height: 2.2rem;
+}
+
+.resume-list {
+    text-decoration: underline;
+}
+
+.resume-list li {
+    font-size: 1.3rem;
+}
