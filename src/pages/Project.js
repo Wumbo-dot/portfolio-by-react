@@ -1,6 +1,6 @@
 import React from 'react';
 import MainLayout from './layouts/MainLayout';
-import Project from '../components/Project/Project';
+import Project from '../components/Projects/Projects';
 
 const Projects = function({ projects }) {
     return (
