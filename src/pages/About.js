@@ -29,7 +29,7 @@ const About = function() {
                 <li>Learning Musical Instruments</li>
                 <li>Cars</li>
                 <li>Cooking</li>
-                <li>Exercising</li>
+                <li>Lifting Weights</li>
             </ul>
 
             <p className="paragraph text-size-3 col-8 center-wide">

@@ -12,4 +12,4 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 [link to GITHUB](https://github.com/Wumbo-dot/portfolio-by-react)
 
-[link to project page]()
+[link to project page](https://wumbo-dot.github.io/portfolio-by-react/)

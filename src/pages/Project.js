@@ -6,7 +6,7 @@ const Projects = function({ projects }) {
     return (
         <MainLayout title="Projects">
             <p className="paragraph text-size-3 mg-10-bottom">
-                Here are some of my recent projects:
+                Here are some of my recent projects
             </p>
 
             {projects.map(project => {
